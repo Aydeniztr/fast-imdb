@@ -2,4 +2,4 @@
 
 check movies fastly
 
-<img src="">
+<img src="https://github.com/Aydeniztr/fast-imdb/raw/main/screenshot.png">
