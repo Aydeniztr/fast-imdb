@@ -1,7 +1,5 @@
 # fast-imdb
 
-Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Aydeniztr.fast-imdb)
-
 <br>
 <a href="">view it online !!!</a>
 <br>
